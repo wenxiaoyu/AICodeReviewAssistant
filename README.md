@@ -23,3 +23,6 @@ Intelligent code review plugin powered by AI to streamline the review process an
 ![Step3](https://github.com/wenxiaoyu/AICodeReviewAssistant/blob/main/Step3.png)
 ![Step4](https://github.com/wenxiaoyu/AICodeReviewAssistant/blob/main/Step4.png)
 ![Step5](https://github.com/wenxiaoyu/AICodeReviewAssistant/blob/main/Step5.png)
+
+## Thanks
+![Thanks](https://github.com/wenxiaoyu/AICodeReviewAssistant/blob/main/PaidCode.jpeg)
