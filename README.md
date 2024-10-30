@@ -16,6 +16,9 @@ Intelligent code review plugin powered by AI to streamline the review process an
 3. Engage in smart issue discussions directly within the IDE for streamlined communication.
 4. Review AI-generated suggestions for code improvements and apply them as needed.
 
+## Marketplace：
+[AI Code Review Assistant](https://plugins.jetbrains.com/plugin/25704-ai-code-review-assistant?noRedirect=true)
+
 ## Screenshots:
 
 ![Step1](https://github.com/wenxiaoyu/AICodeReviewAssistant/blob/main/Step1.png)
@@ -24,5 +27,5 @@ Intelligent code review plugin powered by AI to streamline the review process an
 ![Step4](https://github.com/wenxiaoyu/AICodeReviewAssistant/blob/main/Step4.png)
 ![Step5](https://github.com/wenxiaoyu/AICodeReviewAssistant/blob/main/Step5.png)
 
-## Thanks
+## Thanks：
 ![Thanks](https://github.com/wenxiaoyu/AICodeReviewAssistant/blob/main/PaidCode.jpeg)
